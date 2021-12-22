@@ -8,4 +8,5 @@ Feito com muito amor e carinho por mim prof!
 • Google sites: [sites.google.com](https://sites.google.com/view/gasparzinho/index)   
 • Neocities: [gasparzinho.neocities.org](https://gasparzinho.neocities.org)
 ### Extras:
-• Netlify: [gasparzinho.netlify.app](https://gasparzinho.netlify.app)
+• Netlify: [gasparzinho.netlify.app](https://gasparzinho.netlify.app)   
+• Github: [palitin.github.io](https://palitin.github.io/gasparzinho/)
