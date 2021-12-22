@@ -9,4 +9,5 @@ Feito com muito amor e carinho por mim prof!
 • Neocities: [gasparzinho.neocities.org](https://gasparzinho.neocities.org)
 ### Extras:
 • Netlify: [gasparzinho.netlify.app](https://gasparzinho.netlify.app)   
-• Github: [palitin.github.io](https://palitin.github.io/gasparzinho/)
+• Github: [palitin.github.io](https://palitin.github.io/gasparzinho/)   
+# Esses links não funcionam mais... *por enquanto*
