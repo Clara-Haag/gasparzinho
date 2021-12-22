@@ -9,6 +9,3 @@ Feito com muito amor e carinho por mim prof!
 • Neocities: [gasparzinho.neocities.org](https://gasparzinho.neocities.org)
 ### Extras:
 • Netlify: [gasparzinho.netlify.app](https://gasparzinho.netlify.app)
-- - - 
-Aluna: Clara Haag Rodrigues   
-Turma: 1º ano INFO B
